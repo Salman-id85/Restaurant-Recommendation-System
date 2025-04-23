@@ -2,12 +2,6 @@
 # Restaurants Recommendation System  <img src="https://image.flaticon.com/icons/png/512/52/52172.png" width="40px">
 
 
-This repository contains code for Recommendation of differents restaurants. Developed using Flask and python. Website is hosted on heroku.
-
-
-It's live at **https://restaurants-spotter.herokuapp.com/  .**
-
-
 
 ### 📂 Structure
 
