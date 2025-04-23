@@ -9,17 +9,15 @@ The directory contains web sub directories and a sub directory for hosting model
 
 1. [app.py](https://github.com/Salman-id85/Restaurant-Recommendation-System/blob/main/app.py) The file which contains all the main backend operations of the website and used to run the flask server locally.
    
-2. [Procfile](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/Procfile) for setting up heroku.
+2. [requirement.txt](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/requirements.txt) contains all the dependencies.
 
-3. [requirement.txt](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/requirements.txt) contains all the dependencies.
-
-4. [templates](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/templates) contains the html file.
+3. [templates](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/templates) contains the html file.
 
       |- - - [home.html](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/templates/home.html) contains home page.
       
       |- - - [search.html](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/templates/search.html) contains search page.
 
-5. [static](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static) contains the css file and images.
+4. [static](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static) contains the css file and images.
 
       |- - - [home.css](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static/home.css) contains Styling of home page.
       
@@ -27,9 +25,9 @@ The directory contains web sub directories and a sub directory for hosting model
       
       |- - - [backgrund1.jpg](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/static/background1.jpg) contains background image of web pages.
 
-6. [main_rest.csv](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/main_rest.csv) contains the raw data.
+5. [main_rest.csv](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/main_rest.csv) contains the raw data.
 
-7. [food1.csv](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/food1.csv) contains cleaned data.
+6. [food1.csv](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/food1.csv) contains cleaned data.
   
 ### Codebase <img src="https://www.flaticon.com/svg/static/icons/svg/3565/3565585.svg" width="24px">
 
