@@ -7,7 +7,7 @@
 
 The directory contains web sub directories and a sub directory for hosting model and other scripts:
 
-1. [app.py](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/app.py) The file which contains all the main backend operations of the website and used to run the flask server locally.
+1. [app.py](https://github.com/Salman-id85/Restaurant-Recommendation-System/blob/main/app.py) The file which contains all the main backend operations of the website and used to run the flask server locally.
    
 2. [Procfile](https://github.com/shsarv/Restaurant-Recommendation-System/blob/main/Procfile) for setting up heroku.
 
