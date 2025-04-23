@@ -1,5 +1,5 @@
 # Restaurant-Recommendation-System
-# Restaurants Recommendation System  <img src="https://image.flaticon.com/icons/png/512/52/52172.png" width="40px">
+
 
 
 
