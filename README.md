@@ -21,7 +21,7 @@ The directory contains web sub directories and a sub directory for hosting model
 
       |- - - [home.css](https://github.com/Salman-id85/Restaurant-Recommendation-System/blob/main/static/home.css)) contains Styling of home page.
       
-      |- - - [search.css]((https://github.com/Salman-id85/Restaurant-Recommendation-System/blob/main/static/search.css)) contains Styling of Search page/ result page.
+      |- - - [search.css](https://github.com/Salman-id85/Restaurant-Recommendation-System/blob/main/static/search.css)) contains Styling of Search page/ result page.
       
       |- - - [backgrund1.jpg](https://github.com/Salman-id85/Restaurant-Recommendation-System/blob/main/static/background.jpg)) contains background image of web pages.
 
