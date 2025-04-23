@@ -74,14 +74,9 @@ The following dependencies can be found in [requirements.txt](https://github.com
 6. Machine Learning course- https://www.coursera.org/learn/machine-learning/
 
 
-### License <img src="https://www.flaticon.com/svg/static/icons/svg/1728/1728431.svg" width="24px">
-
-- MIT License 
 
 
-<h3> Thanks for visiting! <img src="https://www.flaticon.com/svg/static/icons/svg/3159/3159002.svg" width="30px"><h3>
 
-<hr> 
 
 
 
